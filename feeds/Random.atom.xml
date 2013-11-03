@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>obarreto</title><link href="http://oscar.barreto.github.com/" rel="alternate"></link><link href="http://oscar.barreto.github.com/feeds/Random.atom.xml" rel="self"></link><id>http://oscar.barreto.github.com/</id><updated>2010-12-03T10:20:00+01:00</updated><entry><title>Title Super post 1</title><link href="http://oscar.barreto.github.com/my-super-post-slug.html" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>Oscar Barreto</name></author><id>tag:oscar.barreto.github.com,2010-12-03:my-super-post-slug.html</id><summary type="html">&lt;p&gt;This is the content of my super blog post.
+Bla Bla Bla
+Bla Bla Bla
+Bla Bla Bla
+Bla Bla Bla
+Bla Bla Bla
+Bla Bla Bla
+Bla Bla Bla
+Bla Bla Bla
+Bla Bla Bla&lt;/p&gt;</summary><category term="stuff"></category></entry></feed>
