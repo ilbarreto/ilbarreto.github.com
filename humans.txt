@@ -10,4 +10,4 @@
 /* SITE */
     Standards: Travel
     Components: Normalize.css, Google Analytics
-    Software: Pelican
+    Software: Pelican,
