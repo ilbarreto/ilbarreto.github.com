@@ -3,24 +3,11 @@
 
 
 /* TEAM */
-    Isaac Bythewood
-    Site: http://isaacbythewood.com/
-    Location: Morganton, NC
+    Oscar Barreto
+    Site: http://ilbarreto.github.com
+    Location: Antibes, FR
 
 /* SITE */
-    Standards: HTML5, CSS3, XML
+    Standards: Travel
     Components: Normalize.css, Google Analytics
-    Software: Vim, Pelican
-
-
-                  ___           ___           ___           ___     
-    ___          /  /\         /  /\         /  /\         /  /\    
-   /  /\        /  /:/_       /  /::\       /  /::\       /  /:/    
-  /  /:/       /  /:/ /\     /  /:/\:\     /  /:/\:\     /  /:/     
- /__/::\      /  /:/ /::\   /  /:/~/::\   /  /:/~/::\   /  /:/  ___ 
- \__\/\:\__  /__/:/ /:/\:\ /__/:/ /:/\:\ /__/:/ /:/\:\ /__/:/  /  /\
-    \  \:\/\ \  \:\/:/~/:/ \  \:\/:/__\/ \  \:\/:/__\/ \  \:\ /  /:/
-     \__\::/  \  \::/ /:/   \  \::/       \  \::/       \  \:\  /:/ 
-     /__/:/    \__\/ /:/     \  \:\        \  \:\        \  \:\/:/  
-     \__\/       /__/:/       \  \:\        \  \:\        \  \::/   
-                 \__\/         \__\/         \__\/         \__\/    
+    Software: Pelican
