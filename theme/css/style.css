@@ -46,7 +46,7 @@
 		color: #777;
 	}
 	
-	h1,h2,h3,h4,h5,h6
+	h1,h2,h4,h5,h6
 	{
 		font-weight: 600;
 		text-transform: uppercase;
@@ -66,6 +66,12 @@
 		text-transform: uppercase;
 		color: #ed786a;
 	}
+	
+	h3.center
+	{
+		text-align: center;
+	}
+	
 
 	a
 	{
@@ -1911,6 +1917,16 @@
 	
 	#features
 	{
+	}
+	
+	.profile
+	{
+		overflow:hidden;
+    	-moz-border-radius: 50%;
+	    -webkit-border-radius: 50%;
+    	border-radius: 50%;
+    	display:inline-block;
+		width: 20em;
 	}
 	
 /*********************************************************************************/
